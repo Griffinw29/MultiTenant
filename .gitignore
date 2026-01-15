@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio workspace
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Database files (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+*.nupkg
+packages/
+
+# Dotnet tooling
+*.deps.json
+*.runtimeconfig.json
+*.dll
+*.pdb
+
+# Publish outputs
+artifacts/
+publish/
+
+# Coverage
+coverage*/
+*.coverage
+*.coveragexml
+
+# Resharper / analyzers
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Mac/Windows cruft
+.DS_Store
+Thumbs.db
